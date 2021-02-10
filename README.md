@@ -16,6 +16,6 @@
          gcc chat_client.c -o client </br>
          gcc chat_server.c -o server </br>
 
-- Run the compiled files
+- Run the compiled files </br>
        ./server in one terminal </br>
        ./client in another terminal </br>
