@@ -14,7 +14,7 @@
 
 - Compile both the client and server </br>
 gcc chat_client.c -o client </br>
-gcc chat_server.c -o server
+gcc chat_server.c -o server </br>
 
 - Run the compiled files
 ./server in one terminal </br>
